@@ -1,0 +1,2 @@
+# DesignPatterns
+用Java来实现DesignPatterns中的所有设计模式
